@@ -1,4 +1,4 @@
-module github.com/yahoojapan/gongt
+module github.com/lefeiwang/gongt
 
 go 1.12
 

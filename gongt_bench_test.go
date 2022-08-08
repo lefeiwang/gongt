@@ -21,7 +21,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/yahoojapan/gongt"
+	"github.com/lefeiwang/gongt"
 	"gonum.org/v1/hdf5"
 )
 
